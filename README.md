@@ -10,7 +10,7 @@ A frozen interface during a long-running operation is the silent enemy of any mo
 
 Drawing on 30 years of experience in software architecture, this work is designed to be a complete training course, guiding both the programmer taking their first steps into threads and the architect seeking to optimize performance in high-demand scenarios. By the end of this journey, you will have the confidence and architectural vision to design and build Delphi applications that don't just work—they delight users with their performance and responsiveness.
 
-![Delphi Multithreading - Book Cover](./cover.jpg)
+![Delphi Multithreading - Book Cover](./cover.png)
 
 ## 🛒 Where to Buy
 

